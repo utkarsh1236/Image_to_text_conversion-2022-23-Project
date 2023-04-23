@@ -1,0 +1,14 @@
+OCR_LOCATIONS = [
+	OCRLocation("name", (410, 70, 712, 77),
+		[]),
+	OCRLocation("phone", (63, 440, 159, 22),
+		[]),
+	OCRLocation("email", (65, 514, 313, 23),
+		[]),
+	OCRLocation("address", (63, 590, 324, 66),
+		[]),
+	OCRLocation("expertise", (87, 1034, 297, 302),
+		[]),
+	OCRLocation("languages", (56, 1400, 331, 194),
+		[])
+]

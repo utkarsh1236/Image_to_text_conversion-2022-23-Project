@@ -1,0 +1,32 @@
+[data-testid|="stAppViewContainer"] {
+    background-color: #fdf0d5;
+}
+
+[data-testid|="stHeader"] {
+    background-color: #a8dadc;
+}
+
+#extracting-information-from-resumes {
+    color: #edf6f9;
+    background-color: #264653;
+    border: 5px solid #2a9d8f;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+#name, #phone, #email, #address, #expertise, #languages {
+    margin-top: 50px;
+    background-color: #3c096c;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px 10px 0px 0px;
+    font-size: 40px;
+}
+
+[data-testid|="stMarkdownContainer"] p {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 30px;
+    border: 10px solid black;
+    font-weight: 900;
+}
