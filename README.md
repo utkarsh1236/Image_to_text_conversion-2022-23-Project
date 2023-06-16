@@ -1,3 +1,5 @@
+# NOTE: THE CODE FOR THE PROJECT IS IN THE OCR-APP BRANCH
+
 # Image_to_text_conversion-2022-23-Project
 ![image](https://github.com/utkarsh1236/Image_to_text_conversion-2022-23-Project/assets/110242820/d318c1dd-fe28-4817-b11e-07643c498637)
 ## About
